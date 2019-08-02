@@ -1,0 +1,8 @@
+body{background-color:#002b5a;height:100vh}.sin_sombra{text-shadow:initial}.back_initial{background-color:rgba(0,0,0,0.4);border-radius:5px;text-shadow:3px 3px 1px #000;border:1px solid rgba(0,0,0,0.2);color:#fff}
+#logo{height:60px}.card_button{background-color:#337ab7;color:#fff;font-size:12px;font-weight:400;text-transform:uppercase;letter-spacing:0;text-align:left;border-radius:5px;padding:10px 28px;border:1px solid transparent;cursor:pointer;transition:.1s all;text-shadow:1px 1px 1px #000}
+#particles-js{height:100%}hr{border-color:rgba(255,255,255,0.2)}@-webkit-keyframes spinner{from{-webkit-transform:rotateY(0deg)}to{-webkit-transform:rotateY(-360deg)}
+}@keyframes spinner{from{-moz-transform:rotateY(0deg);-ms-transform:rotateY(0deg);transform:rotateY(0deg)}to{-moz-transform:rotateY(-360deg);-ms-transform:rotateY(-360deg);transform:rotateY(-360deg)}
+}#logo{-webkit-animation-name:spinner;-webkit-animation-timing-function:linear;-webkit-animation-iteration-count:infinite;-webkit-animation-duration:6s;animation-name:spinner;animation-timing-function:linear;animation-iteration-count:infinite;animation-duration:6s;-webkit-transform-style:preserve-3d;-moz-transform-style:preserve-3d;-ms-transform-style:preserve-3d;transform-style:preserve-3d}
+#logo:hover{-webkit-animation-play-state:paused;animation-play-state:paused}@media(max-width:576px){.back_initial{width:95%;padding:4%}}@media(min-width:576px){.back_initial{width:90%;padding:4%}
+}@media(min-width:768px){.back_initial{width:70%;padding:3%}}@media(min-width:992px){.back_initial{width:40%;padding:2%}}@media(min-width:1200px){.back_initial{width:30%;padding:2%}
+}
