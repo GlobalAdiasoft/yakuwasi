@@ -6,6 +6,6 @@
         "jossmp/sunatphp": "1.7",
         "picqer/php-barcode-generator": "0.2.2",
         "tecnickcom/tcpdf": "6.2.26",
-        "mpdf/mpdf": "7.1.7"
+        "mpdf/mpdf": "8.1.6"
     }
 }
